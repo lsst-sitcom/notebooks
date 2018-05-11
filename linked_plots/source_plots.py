@@ -82,7 +82,8 @@ class source_plots(object):
         reverse_colormap : bool, optional
             Reverse the colormap. Default is black (low) to white (high).
         """
-        ra_target, dec_target = self.src['coord_ra'][index], self.src['coord_dec'][index]  # Radians
+        ra_target, dec_target = (self.src['coord_ra'][self.good_indexes][index], 
+                                 self.src['coord_dec'][self.good_indexes][index])  # Radians
         radec = afwGeom.SpherePoint(ra_target, dec_target, afwGeom.radians)
         cutoutSize = afwGeom.ExtentI(stamp_size, stamp_size)
         wcs = self.calexp.getWcs()
@@ -129,7 +130,7 @@ class source_plots(object):
         #                           .format(x) for x in pixel_radius_names]
         #caf_flag_schema_names = ["base_CircularApertureFlux_{}_flag".format(x) for x in pixel_radius_names]
 
-        ca_fluxes = np.array([self.src[name][index] for name in caf_schema_names])
+        ca_fluxes = np.array([self.src[name][self.good_indexes][index] for name in caf_schema_names])
         #ca_fluxSigmas = np.array([self.src[name][index] for name in caf_sigma_schema_names])
         #caf_flags = np.array([self.src[name][index] for name in caf_flag_schema_names])
         good_fluxes = np.isfinite(ca_fluxes)
