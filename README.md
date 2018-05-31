@@ -4,7 +4,6 @@ A collection point for Commissioning related Jupyter notebooks
 
 |File name     | Contributor     |Description      | 
 |:--------------|-----------------|------------------|
-
 | [diffim-analysis.ipynb](diffim-analysis.ipynb)|Leanne Guy        |This notebook pulls two images, makes a differnce inage and displays it in firefly.| 
 | [astrometry_precision.ipynb](astrometry_precision.ipynb) | Peter Yoachim | estimate final survey astrometry precision |
 |[HSC_colorcolor.ipynb](HSC_colorcolor.ipynb)| Sam Schmidt, Chris Stubbs| Grabs grizy mags and errors in a single tract, plots colcol|
