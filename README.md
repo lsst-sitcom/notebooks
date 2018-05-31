@@ -21,4 +21,6 @@ A collection point for Commissioning related Jupyter notebooks
 | [synpipe_examine_output.ipynb](synpipe_examine_output.ipynb) | Jeff Carlin, Michael Reuter | Beginning exploration of completeness as a function of magnitude using SynPipe outputs |
 |wcs_check.ipynb||
 | [WL_nulltest.ipynb](WL_nulltest.ipynb) | Chris Walter, Keith Bechtol | Null Tests for WL |
+| [star-galaxy.ipynb](star-galaxy.ipynb) | Chris Walter, Sam Schmidt | Star Galaxy Seperation |
+
 
