@@ -11,3 +11,4 @@ A collection point for Commissioning related Jupyter notebooks
 | [WL_nulltest.ipynb](WL_nulltest.ipynb) | Chris Walter and Keith Bechtol | Null Tests for WL |
 | [synpipe_examine_output.ipynb](synpipe_examine_output.ipynb) | Jeff Carlin and Michael Reuter | Beginning exploration of completeness as a function of magnitude using SynPipe outputs |
 | Notebook name | Who to call | What it does |
+| [flag_analysis.ipynb](flag_analysis.ipynb) | Angelo Fausti | Read a couple of patches from HSC reprocessing on HSC-I and HSC-Y filters, compute the fraction of objects rejected by each quality flag and plot them to find spatial patterns in the data |
