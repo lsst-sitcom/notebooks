@@ -22,4 +22,5 @@ A collection point for Commissioning related Jupyter notebooks
 |wcs_check.ipynb||
 | [WL_nulltest.ipynb](WL_nulltest.ipynb) | Chris Walter, Keith Bechtol | Null Tests for WL |
 | [focal_plane.ipynb](focal_plane.ipynb) | Keith Bechtol, Angelo Fausti | Computing and visualizing performance metrics as a function of focal plane position for a set of individual visits |
+| [star-galaxy.ipynb](star-galaxy.ipynb) | Chris Walter, Sam Schmidt | Star Galaxy Seperation |
 
