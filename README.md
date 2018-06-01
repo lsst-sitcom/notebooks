@@ -4,6 +4,7 @@ A collection point for Commissioning related Jupyter notebooks
 
 |File name     | Contributor     |Description      | 
 |:--------------|-----------------|------------------|
+|linked_plots| Michale Rueter, WIlliam O'Mullane, Mattias Carascop Kind|Contains notebooks using bokeh and holoviews including selection leading to a dynamic histogram|
 | [astrometry_precision.ipynb](astrometry_precision.ipynb) | Peter Yoachim | estimate final survey astrometry precision |
 | [diffim-analysis.ipynb](diffim-analysis.ipynb)|Leanne Guy        |This notebook pulls two images, makes a differnce inage and displays it in firefly.| 
 | [finding_docs.ipynb](finding_docs.ipynb) | Phil Marshall | Cheat sheet for finding docs, plus how to use the `whereis` function. |
