@@ -4,6 +4,7 @@ A collection point for Commissioning related Jupyter notebooks
 
 |File name     | Contributor     |Description      | 
 |:--------------|-----------------|------------------|
+| [eotestanalysis_example.ipynb](eotestanalysis_example.ipynb) | Brian Staldar and Kevin Reil | First try at PTC analysis |
 |linked_plots| Michale Rueter, WIlliam O'Mullane, Mattias Carascop Kind|Contains notebooks using bokeh and holoviews including selection leading to a dynamic histogram|
 | [astrometry_precision.ipynb](astrometry_precision.ipynb) | Peter Yoachim | estimate final survey astrometry precision |
 | [diffim-analysis.ipynb](diffim-analysis.ipynb)|Leanne Guy        |This notebook pulls two images, makes a differnce inage and displays it in firefly.| 
@@ -24,4 +25,5 @@ A collection point for Commissioning related Jupyter notebooks
 | [WL_nulltest.ipynb](WL_nulltest.ipynb) | Chris Walter, Keith Bechtol | Null Tests for WL |
 | [focal_plane.ipynb](focal_plane.ipynb) | Keith Bechtol, Angelo Fausti | Computing and visualizing performance metrics as a function of focal plane position for a set of individual visits |
 | [star-galaxy.ipynb](star-galaxy.ipynb) | Chris Walter, Sam Schmidt | Star Galaxy Seperation |
+| Notebook name | Who to call | What it does |
 
