@@ -14,6 +14,7 @@ A collection point for Commissioning related Jupyter notebooks
 | [good_quality_selection_sashabrownsberger.ipynb](good_quality_selection_sashabrownsberger.ipynb) | Sasha Brownsberger | Trims objects in user selected coadds based on user choice of flags for all of a user specified set of filters. Optionally, further trims based on object appearing as a star/galaxy.  Returns set of astropy tables. Should be merged with flag_analysis.ipynb. |
 |[HSC_colorcolor.ipynb](HSC_colorcolor.ipynb)| Sam Schmidt, Chris Stubbs| Grabs grizy mags and errors in a single tract, plots colcol|
 |hsc_cosmos_match.ipynb|||
+| [image_quality_demo.ipynb](image_quality_demo.ipynb) | Keith Bechtol | Shows how to compute several image quality metrics (PSF model, galaxy shapes, ellipticities) and visualize results |
 |matching.ipynb||
 |postage_stamp.ipynb||
 |psf_shape_simon.ipynb||
