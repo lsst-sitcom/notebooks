@@ -28,5 +28,7 @@ A collection point for Commissioning related Jupyter notebooks
 | [star-galaxy.ipynb](star-galaxy.ipynb) | Chris Walter, Sam Schmidt | Star Galaxy Seperation |
 | [Papermill_images_color_9615.ipynb](Papermill_images_color_9615.ipynb) | Andy Connolly | Using papermill to set parameters within a notebook from the commandline and then run it to generate a new output notebook that has been run with those parameters |
 | [Summary.ipynb](Summary.ipynb) | Andy Connolly | Using papermill to create a summary of many runs of a notebook and any output figures or metric values that might have been generated |
+| [Serial_CTE_ComCam_15Nov19.ipynb](Serial_CTE_ComCam_15Nov19.ipynb) | Craig Lage | Calculating Serial CTI using EPER method on ComCam CCDs.  My own code, not based on DM stack |
+| [PTC_ComCam_15Nov19.ipynb](PTC_ComCam_15Nov19.ipynb) | Craig Lage | Running ptc.py from cp_pipe on ComCam CCDs |
 
 | Notebook name | Who to call | What it does |
