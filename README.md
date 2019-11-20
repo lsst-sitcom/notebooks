@@ -30,5 +30,6 @@ A collection point for Commissioning related Jupyter notebooks
 | [Summary.ipynb](Summary.ipynb) | Andy Connolly | Using papermill to create a summary of many runs of a notebook and any output figures or metric values that might have been generated |
 | [Serial_CTE_ComCam_15Nov19.ipynb](Serial_CTE_ComCam_15Nov19.ipynb) | Craig Lage | Calculating Serial CTI using EPER method on ComCam CCDs.  My own code, not based on DM stack |
 | [PTC_ComCam_15Nov19.ipynb](PTC_ComCam_15Nov19.ipynb) | Craig Lage | Running ptc.py from cp_pipe on ComCam CCDs |
+| [MBFK_ComCam_20Nov19.ipynb](MBFK_ComCam_20Nov19.ipynb) | Craig Lage | Generate and plot BF kernels from makeBrighterFatterKernel.py in cp_pipe on ComCam CCDs |
 
 | Notebook name | Who to call | What it does |
